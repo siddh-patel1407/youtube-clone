@@ -1,14 +1,14 @@
-YouTube Clone
+# YouTube Clone
 
 A simple YouTube Clone built using modern web technologies.
 
-Features
+# Features
 
 Like, Comment, and Subscribe
 
 Search & Recommendation System
 
-Tech Stack
+# Tech Stack
 
 Frontend: React, Tailwind CSS
 
